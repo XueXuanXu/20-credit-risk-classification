@@ -1,7 +1,7 @@
 # 20-credit-risk-classification
 
 # Coding file 
-
+[Main Script](https://github.com/XueXuanXu/20-credit-risk-classification/blob/main/Credit_Risk/credit_risk_classification.ipynb)
 
 # Report
 
